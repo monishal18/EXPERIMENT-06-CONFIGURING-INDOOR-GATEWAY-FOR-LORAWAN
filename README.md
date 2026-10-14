@@ -1,4 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+## NAME: MONISHA L
+## REGISTER NUMBER: 2305001019
 
 ## Aim: 
 
@@ -119,6 +121,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/454c7b35-b186-4e56-a1ae-27ff2cde2331" />
+<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/37adb86c-d268-46a3-93b5-8612534eb167" />
+
+
 
 
 
